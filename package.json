@@ -1,0 +1,22 @@
+{
+  "name": "netguru-nodejs-recru-example",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetrash/netguru-nodejs-recru-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetrash/netguru-nodejs-recru-example/issues"
+  },
+  "homepage": "https://github.com/tetrash/netguru-nodejs-recru-example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
